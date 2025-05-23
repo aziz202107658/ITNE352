@@ -1,0 +1,204 @@
+{
+    "data": [
+        {
+            "flight": {
+                "iata": "FL100"
+            },
+            "departure": {
+                "airport": "CDG",
+                "scheduled": "2025-05-21T19:00:37",
+                "gate": "E5",
+                "terminal": "4"
+            },
+            "arrival": {
+                "airport": "XYZ",
+                "scheduled": "2025-05-21T22:27:37",
+                "estimated": "2025-05-21T22:27:37",
+                "gate": "E5",
+                "terminal": "3",
+                "delay": 0
+            },
+            "flight_status": "scheduled"
+        },
+        {
+            "flight": {
+                "iata": "FL101"
+            },
+            "departure": {
+                "airport": "LHR",
+                "scheduled": "2025-05-21T18:03:37",
+                "gate": "D4",
+                "terminal": "4"
+            },
+            "arrival": {
+                "airport": "XYZ",
+                "scheduled": "2025-05-21T21:45:37",
+                "estimated": "2025-05-21T21:45:37",
+                "gate": "A1",
+                "terminal": "2",
+                "delay": 0
+            },
+            "flight_status": "scheduled"
+        },
+        {
+            "flight": {
+                "iata": "FL102"
+            },
+            "departure": {
+                "airport": "LHR",
+                "scheduled": "2025-05-21T18:18:37",
+                "gate": "A1",
+                "terminal": "1"
+            },
+            "arrival": {
+                "airport": "XYZ",
+                "scheduled": "2025-05-21T21:44:37",
+                "estimated": "2025-05-21T21:52:37",
+                "gate": "B2",
+                "terminal": "5",
+                "delay": 8
+            },
+            "flight_status": "delayed"
+        },
+        {
+            "flight": {
+                "iata": "FL103"
+            },
+            "departure": {
+                "airport": "FRA",
+                "scheduled": "2025-05-21T19:01:37",
+                "gate": "D4",
+                "terminal": "4"
+            },
+            "arrival": {
+                "airport": "XYZ",
+                "scheduled": "2025-05-21T21:33:37",
+                "estimated": "2025-05-21T21:33:37",
+                "gate": "E5",
+                "terminal": "4",
+                "delay": 0
+            },
+            "flight_status": "landed"
+        },
+        {
+            "flight": {
+                "iata": "FL104"
+            },
+            "departure": {
+                "airport": "JFK",
+                "scheduled": "2025-05-21T18:06:37",
+                "gate": "D4",
+                "terminal": "2"
+            },
+            "arrival": {
+                "airport": "XYZ",
+                "scheduled": "2025-05-21T22:31:37",
+                "estimated": "2025-05-21T22:31:37",
+                "gate": "D4",
+                "terminal": "2",
+                "delay": 0
+            },
+            "flight_status": "landed"
+        },
+        {
+            "flight": {
+                "iata": "FL105"
+            },
+            "departure": {
+                "airport": "LHR",
+                "scheduled": "2025-05-21T18:03:37",
+                "gate": "B2",
+                "terminal": "4"
+            },
+            "arrival": {
+                "airport": "XYZ",
+                "scheduled": "2025-05-21T21:30:37",
+                "estimated": "2025-05-21T21:30:37",
+                "gate": "B2",
+                "terminal": "2",
+                "delay": 0
+            },
+            "flight_status": "scheduled"
+        },
+        {
+            "flight": {
+                "iata": "FL106"
+            },
+            "departure": {
+                "airport": "JFK",
+                "scheduled": "2025-05-21T19:24:37",
+                "gate": "A1",
+                "terminal": "5"
+            },
+            "arrival": {
+                "airport": "XYZ",
+                "scheduled": "2025-05-21T21:52:37",
+                "estimated": "2025-05-21T21:52:37",
+                "gate": "C3",
+                "terminal": "3",
+                "delay": 0
+            },
+            "flight_status": "landed"
+        },
+        {
+            "flight": {
+                "iata": "FL107"
+            },
+            "departure": {
+                "airport": "CDG",
+                "scheduled": "2025-05-21T18:26:37",
+                "gate": "A1",
+                "terminal": "3"
+            },
+            "arrival": {
+                "airport": "XYZ",
+                "scheduled": "2025-05-21T21:16:37",
+                "estimated": "2025-05-21T21:16:37",
+                "gate": "A1",
+                "terminal": "4",
+                "delay": 0
+            },
+            "flight_status": "scheduled"
+        },
+        {
+            "flight": {
+                "iata": "FL108"
+            },
+            "departure": {
+                "airport": "DXB",
+                "scheduled": "2025-05-21T18:25:37",
+                "gate": "A1",
+                "terminal": "1"
+            },
+            "arrival": {
+                "airport": "XYZ",
+                "scheduled": "2025-05-21T22:29:37",
+                "estimated": "2025-05-21T22:39:37",
+                "gate": "E5",
+                "terminal": "3",
+                "delay": 10
+            },
+            "flight_status": "delayed"
+        },
+        {
+            "flight": {
+                "iata": "FL109"
+            },
+            "departure": {
+                "airport": "CDG",
+                "scheduled": "2025-05-21T19:31:37",
+                "gate": "A1",
+                "terminal": "5"
+            },
+            "arrival": {
+                "airport": "XYZ",
+                "scheduled": "2025-05-21T21:16:37",
+                "estimated": "2025-05-21T21:25:37",
+                "gate": "B2",
+                "terminal": "1",
+                "delay": 9
+            },
+            "flight_status": "delayed"
+        }
+    ]
+}
